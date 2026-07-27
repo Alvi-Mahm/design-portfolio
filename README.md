@@ -21,5 +21,5 @@ Upcoming Engineering Projects Portfolio
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your Link Here]
-* **Email:** your.email@example.com
+* **LinkedIn:** www.linkedin.com/in/alvi-mahmud
+* **Email:** alvimahm@buffalo.edu
