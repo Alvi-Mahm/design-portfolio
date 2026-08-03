@@ -1,29 +1,31 @@
-# 🚀 [Project Name]
+# 🚀 Controlling Servo Motor With Buttons
 
 > **Status:** 🟡 In Development  
-> **Tech Stack:** KiCad, Python, SolidWorks  
+> **Tech Stack:** Arduino, C++, Wokwi Simulation  
 
 ---
 
 ## 📌 Project Overview
-A quick summary of what this project does, why you are building it, and key specifications.
+**Goal:** Control the rotation and direction of a servo motor using push-button inputs with Arduino.
 
 ---
 
 ## 📈 Progression & Log
 
-- [x] **Phase 1: Requirements & Concept**
-  - [x] Defined target parameters and component list.
-  - [x] Calculated initial circuit values.
-- [ ] **Phase 2: Simulation & Schematic Capture** *(In Progress)*
-  - [x] Python simulation script completed.
-  - [ ] Schematic capture in KiCad.
-- [ ] **Phase 3: PCB Layout & Testing**
-  - [ ] Sourcing components.
-  - [ ] Hardware bench testing.
+- [x] **Phase 1: Basic GPIO Input & Output**
+  - [x] Wired basic push-button circuit with LED output.
+  - [x] Implemented digital read logic for button states.
+
+- [ ] **Phase 2: Servo Motor Control (Simulation)**
+  - [x] Simulated single-button servo control in Wokwi.
+  - [ ] Implement dual-button logic to control clockwise and counter-clockwise rotation.
+
+- [ ] **Phase 3: Physical Implementation**
+  - [ ] Assemble physical Arduino circuit on breadboard.
+  - [ ] Mount motor and mechanism for practical light switch control.
 
 ---
 
 ## 📁 Project Directory Structure
-* `/code` - Python analysis scripts and code.
-* `/schematics` - KiCad files and PDFs.
+* `/code` - Arduino (.ino) source files and Wokwi project links.
+* `/schematics` - Circuit wiring diagrams and pinout documentation.
