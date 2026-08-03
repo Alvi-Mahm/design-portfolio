@@ -29,8 +29,8 @@
 ## 📁 Project Directory Structure
 
 * 💻 **Code Archives:**
-  * 📄 [Phase 1: Single-Button Code](./code/phase-1-single-button/) – Basic servo angle toggle.
-  * 📄 [Phase 2: Dual-Button Code](./code/phase-2-dual-button/) – Dual direction control 
+  * 📄 [Phase 1: Single-Button Code](./code/phase-1-single-button/single_button_servo.ino) – Basic servo angle toggle.
+  * 📄 [Phase 2: Dual-Button Code](./code/phase-2-dual-button/dual_button_servo.ino) – Dual direction control.
 * 📐 **Schematics & Diagrams:**
   * 🖼️ [Phase 1 Wiring Diagram](./schematics/phase-1-single-button/)
 * 🌐 **[Live Wokwi Simulation](https://wokwi.com/projects/471278532232662017)** – Interactive browser simulation for the servo control circuit.
