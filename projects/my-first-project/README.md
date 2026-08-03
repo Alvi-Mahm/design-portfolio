@@ -27,5 +27,7 @@
 ---
 
 ## 📁 Project Directory Structure
-* `/code` - Arduino (.ino) source files and Wokwi project links.
-* `/schematics` - Circuit wiring diagrams and pinout documentation.
+
+* 💻 **[code/](./code)** – Arduino (`.ino`) source files.
+* 📐 **[schematics/](./schematics)** – Circuit wiring diagrams and pinouts.
+* 🌐 **[Live Wokwi Simulation](https://wokwi.com/projects/471278532232662017)** – Interactive browser simulation for the servo control circuit.
