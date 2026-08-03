@@ -32,6 +32,5 @@
   * 📄 [Phase 1: Single-Button Code](./code/phase-1-single-button/single_button_servo.ino) – Basic servo angle toggle.
   * 📄 [Phase 2: Dual-Button Code](./code/phase-2-dual-button/dual_button_servo.ino) – Dual direction control.
 * 📐 **Schematics & Demos:**
-  * 🖼️ **Phase 1: Single-Button Circuit Simulation**
 ![Phase 1 Circuit Demo](./schematics/phase-1-single-button/GIF%20Button%20Controling%20Servo.gif)
 * 🌐 **[Live Wokwi Simulation](https://wokwi.com/projects/471278532232662017)** – Interactive browser simulation for the servo control circuit.
