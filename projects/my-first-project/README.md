@@ -33,4 +33,5 @@
   * 📄 [Phase 2: Dual-Button Code](./code/phase-2-dual-button/dual_button_servo.ino) – Dual direction control.
 - 📐 **Schematics & Demos:**
   - 🖼️ [Phase 1: Single-Button Circuit Demo](./schematics/phase-1-single-button/GIF%20Button%20Controling%20Servo.gif) – Animated simulation of button & servo wiring.
+  - 🖼️ [Phase 2: Dual-Button Circuit Demo](./schematics/phase-2-dual-button/dual-button%20schematic%20GIF.gif) - Animated simulation of dual-button & servo wiring.
 * 🌐 **[Live Wokwi Simulation](https://wokwi.com/projects/471278532232662017)** – Interactive browser simulation for the servo control circuit.
