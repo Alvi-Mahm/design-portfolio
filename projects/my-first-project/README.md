@@ -19,7 +19,12 @@ Through building and testing this project, I was able to:
 ---
 
 ## 📌 Project Overview
-**Goal:** Control the rotation and direction of a servo motor using push-button inputs with Arduino.
+
+**Background & Motivation:** 
+My desk was placed directly in front of my room's light switch, making it awkward and frustrating to reach behind it every time I needed to flip the light on or off. I decided to build a simple motorized mechanism to control the switch remotely using an Arduino and servo motor.
+
+**Technical Goal:** 
+Design and simulate an Arduino-based system to control the rotation and direction of a servo motor using push-button inputs.
 
 ---
 
