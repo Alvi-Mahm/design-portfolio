@@ -1,20 +1,21 @@
 # 🚀 Controlling Servo Motor With Buttons
 
-> **Status:** ⏸️ Concluded / Incomplete
-> **Tech Stack:** Arduino, C++, Wokwi Simulation  
+*Status:* ⏸️ Concluded / Incomplete | *Tech Stack:* Arduino, C++, Wokwi Simulation
 
 ---
 
-📝 Project Retrospective & Status Update
+### 📝 Project Retrospective & Status Update
 
 While this project wasn't carried through to physical installation—as I found an alternative setup to address the light switch accessibility—it served as a valuable learning experience.
 
 Through building and testing this project, I was able to:
-**Simulate & Wire Dual-Direction Motor Logic:** Designed and validated dual-button servo control logic within Wokwi.
-**Explore Hardware Integration:** Practiced selecting switches and organizing circuit subsystem schematics for practical physical integration.
-**Improve Workflow Documentation:** Built a structured, multi-phase project log and maintained code/schematic archives on GitHub.
 
-I thoroughly enjoyed building this prototype and applying these electronics concepts!
+* **Simulate & Wire Dual-Direction Motor Logic:** Designed and validated dual-button servo control logic within Wokwi.
+* **Explore Hardware Integration:** Practiced selecting switches and organizing circuit subsystem schematics for practical physical integration.
+* **Improve Workflow Documentation:** Built a structured, multi-phase project log and maintained code/schematic archives on GitHub.
+
+*I thoroughly enjoyed building this prototype and applying these electronics concepts!*
+
 ---
 
 ## 📌 Project Overview
