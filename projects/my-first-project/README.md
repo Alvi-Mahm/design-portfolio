@@ -37,6 +37,6 @@
   - 🖼️ [Phase 2: Dual-Button Circuit Demo](./schematics/phase-2-dual-button/dual-button%20schematics.gif) - Animated simulation of dual-button & servo wiring.
 - 📐 **Phase 3: Physical Assembly Schematics & Demos:**
   - 🖼️ [Motor Wiring & Driver Setup](./schematics/phase-3-physcial-implementation/physical-schematic.gif) – Circuit schematic for the standalone motor drive subsystem.
-  - 🖼️ [Updated Switch Wiring](./schematics/phase-3-physical/2-switch-hardware-change.png) – Side-by-side layout highlighting the new switch hardware integration.
+  - 🖼️ [Updated Switch Wiring](./schematics/phase-3-physcial-implementation/alter-switch-fixture.jpeg) – Side-by-side layout highlighting the new switch hardware integration.
   - 🎥 [Integrated System Demo](./schematics/phase-3-physical/3-system-integration-demo.mp4) – Demonstration of the motor and switch mechanism working together.
 * 🌐 **[Live Wokwi Simulation](https://wokwi.com/projects/471278532232662017)** – Interactive browser simulation for the servo control circuit.
