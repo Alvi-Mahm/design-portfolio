@@ -1,50 +1,50 @@
-# 8x8 LED Display Project
-## 🚧 Current Status & In-Progress
+# 🚀 Interactive 8x8 LED Matrix Animations
+**Status:** 🟡 In Progress | **Tech Stack:** Arduino, C++, MAX7219, Wokwi Simulation
+
+---
+
+## 📌 Project Overview
+
+* **Background & Motivation:** Building interactive visual displays is a great way to master non-blocking code, state machines, and hardware communication protocols. Instead of a basic static display or game, this project focuses on creating dynamic, frame-by-frame LED animations triggered by dedicated tactile push buttons.
+* **Technical Goal:** Design, wire, and simulate an Arduino-driven 8x8 LED matrix system that instantly toggles between unique visual animation loops based on button inputs, running seamlessly on a Wokwi browser simulation before optional physical assembly.
 
 ---
 
 ## 🛠 Tech & Tools Used
-* **Hardware:** (e.g., Arduino Uno, Servo Motor, Buttons)
-* **Software / Tools:** (e.g., KiCad, Wokwi, C/C++)
+
+* **Hardware Subsystems:** Arduino Uno, 8x8 LED Matrix (MAX7219 driver), Tactile Push Buttons, Pulldown Resistors
+* **Software & Tools:** Wokwi Simulator, C/C++ (Arduino IDE), Git/GitHub
 
 ---
 
-## 🚀 Key Features
-* Feature 1: Description
-* Feature 2: Description
+### 📈 Progression & Log
+
+#### Phase 1: Basic LED Matrix Setup & Static Patterns
+* [x] Wired 8x8 MAX7219 LED matrix to Arduino in Wokwi.
+* [x] Tested basic code to display simple, stationary patterns and shapes.
+* [ ] Verified matrix display pins and brightness configurations.
+
+#### Phase 2: Animations & Multi-Button Inputs
+* [ ] Design frame-by-frame bitmaps to create custom loop animations.
+* [ ] Wire push buttons to Arduino pins and read button presses.
+* [ ] Program each button to trigger a different animation sequence.
+
+#### Phase 3: Code Cleaning & Final Touches
+* [ ] Clean up C++ code so it is easy to read and organized.
+* [ ] Make sure switching between button animations occurs instantly without delays.
+* [ ] Add circuit schematic and Wokwi link to repository documentation.
+
+#### Phase 4: Physical Hardware Assembly (Optional)
+* [ ] Gather physical Arduino, MAX7219 matrix display, and push buttons.
+* [ ] Build circuit on a breadboard and upload code to hardware.
+* [ ] (Optional) Put components together in a physical frame or enclosure.
 
 ---
 
-## 📈 Progression & Timeline
+## 📁 Repository Structure & Archives
 
-## 📈 Progression & Timeline
-
-### Phase 1: Wokwi Simulation & Basic Control
-* [ ] Set up 8x8 LED matrix and Arduino on Wokwi
-* [ ] Wire push buttons to digital input pins
-* [ ] Write basic code to light up a single custom pattern on the display
-
-### Phase 2: Animation & Multi-Button Logic
-* [ ] Design frame-by-frame bitmap arrays for custom animations
-* [ ] Implement non-blocking animation timing using `millis()`
-* [ ] Add button interrupt or polling logic to switch animations instantly on press
-* [ ] Assign unique animations to each button (e.g., Button A = Pulse, Button B = Arrow Shift)
-
-### Phase 3: Code Refactoring & Polish
-* [ ] Organize animation frames and pin definitions into modular functions or header files
-* [ ] Debounce button inputs to prevent erratic triggers
-* [ ] Document full circuit schematic and logic flow in the README
-
-### Phase 4: Hardware Prototyping (Optional)
-* [ ] Source physical 8x8 MAX7219 module, push buttons, and breadboard
-* [ ] Wire hardware layout and test software on a physical microcontroller
-* [ ] (Optional) Draft enclosure or custom PCB layout in KiCad
-
----
-
-## 📂 Repository Structure
 ```text
-my-new-project/
-├── docs/           # Schematics, datasheets, or block diagrams
-├── src/            # Firmware / source code
-└── README.md       # Project documentation
+led-display-project/
+├── docs/           # Schematics, block diagrams, and Wokwi pinout maps
+├── src/            # Firmware C++ source code & animation bitmasks
+└── README.md       # Main project documentation
