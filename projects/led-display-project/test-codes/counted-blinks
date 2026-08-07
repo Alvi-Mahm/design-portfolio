@@ -1,1 +1,21 @@
+/*
+ * Project: Counted Blinks
+ * Description: Blinks an LED connected to Pin 2 exactly 5 times,
+ * pauses for 2 seconds, and then repeats the cycle.
+ */
 
+void setup() {
+  pinMode(2, OUTPUT);   
+}
+
+void loop() {
+  for (int i = 0; i < 5; i++) {
+    digitalWrite(2, HIGH);
+    delay(200);
+
+    digitalWrite(2, LOW);
+    delay(200);
+  }
+
+  delay(2000);
+}
