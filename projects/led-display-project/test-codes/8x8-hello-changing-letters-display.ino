@@ -73,17 +73,32 @@ void loop() {
   showLetter(LETTER_H);
   delay(600); // Display 'H' for 600ms
 
+  mx.clear();
+  delay(100); //Brief pause between letters
+
   showLetter(LETTER_E);
   delay(600); // Display 'E'
+
+  mx.clear();
+  delay(100); //Brief pause between letters
 
   showLetter(LETTER_L);
   delay(600); // Display 1st 'L'
 
+  mx.clear();
+  delay(100); //Brief pause between letters
+
   showLetter(LETTER_L);
   delay(600); // Display 2nd 'L'
 
+  mx.clear();
+  delay(100); //Brief pause between letters
+
   showLetter(LETTER_O);
   delay(600); // Display 'O'
+
+  mx.clear();
+  delay(100); //Brief pause between letters
 
   mx.clear();
   delay(1000); // Brief pause before starting over
