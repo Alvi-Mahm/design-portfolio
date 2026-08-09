@@ -43,8 +43,15 @@
 
 ## 📁 Repository Structure & Archives
 
-```text
-led-display-project/
-├── docs/           # Schematics, block diagrams, and Wokwi pinout maps
-├── src/            # Firmware C++ source code & animation bitmasks
-└── README.md       # Main project documentation
+### 💻 Code Archives
+* **Phase 1: Basic Patterns**
+  * 📄 [Test Codes Directory](https://github.com/Alvi-Mahm/design-portfolio/tree/main/projects/led-display-project/test-codes) – Simple C++ scripts testing static patterns, characters, and display configuration.
+* **Phase 2: Animations & Multi-Button Control**
+  * 📄 [Animation Codes Directory](./animation-codes) – Advanced scripts featuring frame-by-frame bitmask loops and button triggers.
+
+---
+
+### 📐 Schematics & Demos
+* 🖼️ [Basic Matrix Wiring](./schematics/matrix-only-wiring.png) – Pinout and schematic for connecting the 8x8 MAX7219 matrix to the Arduino.
+* 🖼️ [Full Circuit Schematic](./schematics/full-circuit-wiring.png) – Integrated diagram including both the 8x8 LED matrix and tactile push buttons.
+* 🌐 [Live Wokwi Simulation](https://wokwi.com) – Interactive browser simulation for the complete circuit and button controls.
